@@ -1,5 +1,3 @@
-require('dotenv').config({ path: './auth.env' });
-
 const tmi = require('tmi.js');
 const discord = require('discord.js');
 const fs = require('fs');
